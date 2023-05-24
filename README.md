@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&color=2D9ECF&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%B2%D1%81%D0%B5%D0%BC+%F0%9F%91%8B%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D0%BD%D1%82%D0%BE%D0%BD!)](https://git.io/typing-svg)
 
-# Начинающий фронтенд разработчик
+# Фронтенд разработчик
 
 <div id="header" align="center">
   <img class="plastic" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
