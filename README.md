@@ -50,9 +50,5 @@
 	&nbsp;
 </div>
 	&nbsp;
-
-### 🔥Немного статистики:
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtimoO&layout=compact&theme=vision-friendly-dark" alt=""/>
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=AtimoO&theme=dark&background=000000)](https://git.io/streak-stats" alt=""/>
   
 [![codewars](https://www.codewars.com/users/AtimoO/badges/small)](https://www.codewars.com/users/AtimoO/badges) 
