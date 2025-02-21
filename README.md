@@ -50,7 +50,7 @@
 	&nbsp;
 	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="40" height="40" alt="TYPESCRIPT">
 	&nbsp;
-	<img src="[https://img.icons8.com/color/344/mysql-logo.png](https://github.com/ag-grid/ag-grid/raw/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-Grid-Logo_Light-Theme.svg?raw=true)" width="40" height="40" alt="MySQL">
+	<img src="https://github.com/ag-grid/ag-grid/raw/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-Grid-Logo_Light-Theme.svg?raw=true" width="100" height="40" alt="AgGridReact">
 	&nbsp;
 	<img src="https://img.icons8.com/color/344/git.png" width="40" height="40" alt="GIT">
 	&nbsp;
