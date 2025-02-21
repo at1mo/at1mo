@@ -1,19 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&color=2D9ECF&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%B2%D1%81%D0%B5%D0%BC+%F0%9F%91%8B%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D0%BD%D1%82%D0%BE%D0%BD!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=6000&pause=1000&color=2974F7&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D0%BD%D1%82%D0%BE%D0%BD.+%D0%AF+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D1%8D%D0%BD%D0%B4)](https://git.io/typing-svg)
 
 # Фронтенд разработчик
 
 <div id="header" align="center">
-  <img class="plastic" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img class="plastic" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdnenNjN3IwZ3puMHJ5dnNwZGpoZ2ZrY2EwdWtvc2p2Y2ZjaTljaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="100"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AtimoO&style=flat-square&color=blue" alt="Счетчик просмотров"/>
 </div>
 
 📖 Немного о себе:
-- 🎯 Стремлюсь развиваться в frontend
-- ✨ Мои хобби: сноуборд, велосипед, гитара
-- 📚 Постоянно изучаю что-то новое
-- 🔮 Топлю за обсидиан (ведение заметок)
+🎯 Цели:
+Стремлюсь развиваться во frontend-разработке, создавать качественные и интуитивно понятные интерфейсы.
+
+✨ Хобби:
+Увлекаюсь активным образом жизни: катаюсь на сноуборде 🏂 и велосипеде 🚴. Также играю на гитаре 🎸 и люблю музыку.
+
+📚 Обучение:
+Постоянно изучаю новые технологии и инструменты, чтобы быть в курсе современных трендов в разработке.
+
+🔮 Инструменты:
+Топлю за Obsidian (ведение заметок) — это мощный инструмент для организации знаний и идей.
+
+🚀 Мечты:
+Хочу работать в крупной компании над проектами, которые приносят пользу и улучшают их жизнь.
 
 &nbsp;
 
@@ -40,7 +50,7 @@
 	&nbsp;
 	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="40" height="40" alt="TYPESCRIPT">
 	&nbsp;
-	<img src="https://img.icons8.com/color/344/mysql-logo.png" width="40" height="40" alt="MySQL">
+	<img src="[https://img.icons8.com/color/344/mysql-logo.png](https://github.com/ag-grid/ag-grid/raw/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-Grid-Logo_Light-Theme.svg?raw=true)" width="40" height="40" alt="MySQL">
 	&nbsp;
 	<img src="https://img.icons8.com/color/344/git.png" width="40" height="40" alt="GIT">
 	&nbsp;
